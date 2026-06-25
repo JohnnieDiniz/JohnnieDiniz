@@ -1,4 +1,8 @@
-<h2 data-importer="text" align="center">Olá! Eu sou o João Vitor Diniz (Jonnie Diniz) 👋</h2>
+<h2 data-importer="text" align="center">Olá! Eu sou o João Vitor Diniz (Johnnie Diniz) 👋</h2>
+
+###
+
+<p data-importer="text" align="left">- 🎓 Cursando Ciência da Computação.<br>- 🚀 Bootcamp Java Full Stack — Generation Brasil.<br>- 📚 Estudando Java, Spring Boot, SQL e Desenvolvimento de APIs.<br>- 💻 Desenvolvendo projetos para fortalecer meu portfólio.</p>
 
 ###
 
