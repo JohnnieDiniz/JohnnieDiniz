@@ -1,57 +1,92 @@
-<h2 data-importer="text" align="center">Olá! Eu sou o João Vitor Diniz (Johnnie Diniz) 👋</h2>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm João Vitor Diniz </h1>
 
-###
-
-<p data-importer="text" align="left">- 🎓 Cursando Ciência da Computação.<br>- 🚀 Bootcamp Java Full Stack — Generation Brasil.<br>- 📚 Estudando Java, Spring Boot, SQL e Desenvolvimento de APIs.<br>- 💻 Desenvolvendo projetos para fortalecer meu portfólio.</p>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-diniz-alves-aa32a5177/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=JohnnieDiniz">
+    <img src="https://komarev.com/ghpvc/?username=JohnnieDiniz&label=Profile%20views&color=00FFFF&style=flat-square" alt="JohnnieDiniz's profile views" />
   </a>
-  <a href="https://discord.com/channels/@joaovitordinizalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</p>
+
+## 📌 About Me
+- 🎓 Computer Science student and aspiring Java Full Stack Developer, currently completing the Java Full Stack Bootcamp at Generation Brasil.
+- 🚀 Currently developing my skills in Java, Spring Boot, SQL, REST APIs, and Web Development.
+- 💻 Building practical projects to strengthen my portfolio and apply my technical knowledge to real-world solutions.
+- 📚 Constantly learning and improving my skills in Back-end, Front-end, databases, and software development best practices.
+- 🔎 Seeking my first professional opportunity in technology, where I can contribute, learn, and grow as a developer.
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/JohnnieDiniz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JohnnieDiniz&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="JohnnieDiniz's GitHub Stats" />
   </a>
-  <a href="https://w.app/joaovitordinizalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/JohnnieDiniz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohnnieDiniz&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
-</div>
+</p>
 
-###
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaovitordinizalves/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://wa.me/5511932876906">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>
+  <a href="mailto:joao.vitor.diniz@outlook.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+  <a href="https://johnniediniz.github.io/portifolio/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=JohnnieDiniz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
