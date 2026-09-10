@@ -1,10 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm João Vitor Diniz </h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=JohnnieDiniz">
-    <img src="https://komarev.com/ghpvc/?username=JohnnieDiniz&label=Profile%20views&color=00FFFF&style=flat-square" alt="JohnnieDiniz's profile views" />
-  </a>
-</p>
 
 ## 📌 About Me
 - 🎓 Computer Science student and aspiring Java Full Stack Developer, currently completing the Java Full Stack Bootcamp at Generation Brasil.
