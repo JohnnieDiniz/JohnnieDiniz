@@ -1,12 +1,20 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm João Vitor Diniz </h1>
 
-
 ## 📌 About Me
-- 🎓 Computer Science student and aspiring Java Full Stack Developer, currently completing the Java Full Stack Bootcamp at Generation Brasil.
-- 🚀 Currently developing my skills in Java, Spring Boot, SQL, REST APIs, and Web Development.
-- 💻 Building practical projects to strengthen my portfolio and apply my technical knowledge to real-world solutions.
-- 📚 Constantly learning and improving my skills in Back-end, Front-end, databases, and software development best practices.
-- 🔎 Seeking my first professional opportunity in technology, where I can contribute, learn, and grow as a developer.
+- 🎓 Computer Science student and aspiring Java Full Stack Developer.
+- 🚀 Java, Spring Boot, REST APIs, SQL, React, and Web Development.
+- ☁️ Studying Cloud Computing and AWS fundamentals at Escola da Nuvem.
+- 💻 Building practical projects and developing software solutions through hands-on experience.
+- 📚 Passionate about Back-end Development, Full Stack Development, and Cloud Computing.
+- 🔎 Seeking my first professional opportunity in tech to contribute, learn, and grow as a developer.
+
+## 📌 Sobre mim 
+-🎓 Estudante de Ciência da Computação e desenvolvedor Java Full Stack em formação.
+- 🚀 Java, Spring Boot, APIs REST, SQL, React e Desenvolvimento Web.
+- ☁️ Estudando Computação em Nuvem e fundamentos da AWS pela Escola da Nuvem.
+- 💻 Desenvolvendo projetos práticos e criando soluções de software por meio da experiência prática.
+- 📚 Interessado em Desenvolvimento Back-end, Full Stack e Computação em Nuvem.
+- 🔎 Buscando minha primeira oportunidade profissional em tecnologia para contribuir, aprender e crescer como desenvolvedor.
 
 
 ## 📊 GitHub Stats & Trophies
