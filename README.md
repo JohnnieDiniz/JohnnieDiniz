@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm João Vitor Diniz </h1>
 
-📌 About Me
+## 📌 About Me
 - 🎓 Computer Science student and aspiring Java Full Stack Developer.
 - 🚀 Java, Spring Boot, REST APIs, SQL, React, and Web Development.
 - ☁️ Studying Cloud Computing and AWS fundamentals at Escola da Nuvem.
